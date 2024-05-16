@@ -17,6 +17,7 @@ function calculateBoxes() {
     }
 
     document.getElementById("output").innerHTML = outputText;
+    console.log("hello"); 
 }
 
-hello
+
